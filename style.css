@@ -56,6 +56,8 @@ position: absolute;
 border: rgb(133, 68, 175) solid;
 width: 100%;
 background-color: black;
+padding: 0px;
+margin: 0px;
 }
 
 .mG{
@@ -75,6 +77,8 @@ font-weight:bolder ;
     text-decoration: underline rgb(75, 21, 110);
     color: white;
     cursor: pointer;
+    padding: 20px;
+    margin: 0;
    
 
 
