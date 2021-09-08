@@ -53,7 +53,6 @@ section1{display: flex;
 justify-content: space-around;
 align-items: center;
 position: absolute;
-border: rgb(133, 68, 175) solid;
 width: 100%;
 background-color: black;
 padding: 0px;
