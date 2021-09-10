@@ -1,0 +1,198 @@
+*{
+    background-color: rgb(0, 0, 0);
+    font-family: Cinzel
+    ;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+header{
+    background-image:url(firefox_5LaWeYVBoV.png);
+    width: 100%;
+    height: 120px;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+
+    
+    
+}
+
+.section{
+    padding: 0;
+    margin-top: 0px;
+
+    
+}
+
+a:link{
+    color: rgb(136, 77, 230);
+}
+
+a:hover{
+    color:white
+}
+
+a{
+    margin-left: 15%;
+}
+
+.sectionSearch{
+    display: flex;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.divP p{
+    margin: 0 !important;
+    padding: 0 !important;
+    color: red;
+}
+
+.divMail{
+    color:blueviolet !important;
+    border: solid red !important;
+    
+}
+
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px !important;
+    margin: 0;
+
+   
+}
+
+
+
+.logo{
+border: solid rgb(172, 118, 207);
+margin-top: 5%;
+height: 300px;
+width: 100%;
+border-radius: 35px;
+box-shadow: rgba(255, 255, 255, 0.137) 0px 0px 4px 10px;
+display: flex;
+justify-content: center;
+width: 100%;
+position: relative;
+
+
+}
+
+
+
+
+.mgFlex{display: flex;
+justify-content: center;
+margin: 0px;
+padding: 0px;}
+
+.mG{
+width: 20%;
+color:white;
+display: flex;
+justify-content: space-around;
+margin-top: 10%;
+font-size: 30px;
+font-weight:bolder ;
+width: 35%;
+align-items: center !important;
+
+
+
+
+}
+
+ 
+.mG a{
+    text-decoration: underline rgb(75, 21, 110);
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0;
+   
+
+
+}
+
+.mG a:hover{
+    color: white;
+    box-shadow: rgba(181, 123, 204, 0.226)0px  0px 0px 20px;
+    background-color: rgba(181, 123, 204, 0.226);
+    text-decoration: underline rgb(184, 45, 45);
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+
+.section2{
+   
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-image: url(./img/rust.png);
+    background-size: cover;
+    background-position: center;
+    /* opacity: 20%; */
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+
+video{
+    opacity: 100% !important;
+}
+
+.section3{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    /* opacity: 20%; */
+    height: 200px;
+    
+}
+
+
+footer{
+    color: white;
+    margin-top: 5%;
+    background-color:  rgb(0, 0, 0) !important;
+    width: 100%;
+    float: left ;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+   
+   
+  
+    
+    
+}
+
+.logoReseaux{
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 50px;
+    width: 25%;
+   
+    
+}
+
+i{
+    cursor: pointer;
+
+}
