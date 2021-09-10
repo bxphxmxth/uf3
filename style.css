@@ -98,7 +98,7 @@ align-items: center !important;
 
 .mG a:hover{
     color: white;
-    box-shadow: rgba(243, 21, 21, 0.137) px 0px 4px 2px;
+    box-shadow: rgba(181, 123, 204, 0.226)0px  0px 0px 20px;
     background-color: rgba(181, 123, 204, 0.226);
     text-decoration: underline rgb(184, 45, 45);
     border-radius: 10px;
@@ -112,7 +112,7 @@ align-items: center !important;
     display: flex;
     justify-content: center;
     width: 100%;
-    background-image: url(./img/rust.png);    
+    background-image: url(./img/rust.png);
     background-size: cover;
     background-position: center;
     /* opacity: 20%; */
